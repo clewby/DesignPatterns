@@ -23,3 +23,5 @@ obj/Debug/net7.0/DesignPatterns.GlobalUsings.g.cs
 obj/Debug/net7.0/DesignPatterns.pdb
 obj/Debug/net7.0/ref/DesignPatterns.dll
 obj/Debug/net7.0/refint/DesignPatterns.dll
+obj/Debug/net7.0/apphost
+bin/Debug/net7.0/DesignPatterns
